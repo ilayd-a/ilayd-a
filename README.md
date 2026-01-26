@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Turkey/US</h3>
+<h3 align="center">A passionate developer from Turkey/US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilayd-a&label=Profile%20views&color=0e75b6&style=flat" alt="ilayd-a" /> </p>
 
